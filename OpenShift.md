@@ -49,4 +49,4 @@ Communication
 
 
 
-Another benefit is the ability for to run a large set of languages on the backend due to the plug and play aspect of its cartridge system. Whatever your language of choice is, you just have to create your application with it. 
+Another benefit is the ability to run a large set of languages on the backend due to the plug and play aspect of its cartridge system. Whatever your language of choice is, you just have to create your application with it. 
